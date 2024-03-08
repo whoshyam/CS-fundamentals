@@ -1,3 +1,6 @@
 [submodule "System-Design/karanPrataps-systemDesign"]
 	path = System-Design/karanPrataps-systemDesign
 	url = https://github.com/karanpratapsingh/system-design
+[submodule "System-Design/ByteByteGo"]
+	path = System-Design/ByteByteGo
+	url = https://github.com/ByteByteGoHq/system-design-101
