@@ -1,3 +1,9 @@
+https://www.javatpoint.com/computer-network-tutorial
+
+https://whimsical.com/networking-cheatsheet-by-love-babbar-FcLExFDezehhfsbDPfZDBv
+
+----
+
 # Layers
 
 OSI (Open Systems Interconnection) Model:
