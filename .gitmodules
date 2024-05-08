@@ -4,3 +4,6 @@
 [submodule "System-Design/ByteByteGo"]
 	path = System-Design/ByteByteGo
 	url = https://github.com/ByteByteGoHq/system-design-101
+[submodule "System-Design/system-design-resources"]
+	path = System-Design/system-design-resources
+	url = https://github.com/InterviewReady/system-design-resources
