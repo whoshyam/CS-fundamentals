@@ -1,4 +1,4 @@
-̀# Database-Management-system
+# Database-Management-system
 
 https://www.javatpoint.com/dbms-tutorial
 
