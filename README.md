@@ -1,8 +1,3 @@
-# https://docs.google.com/spreadsheets/d/1giA4XubQ30_6jnsESwCdRdQLWQ0QD5_n_c4HovDI_IQ/edit?usp=sharing
-
-## behavioural interview
-- [Behav. interview ques sheet ](https://docs.google.com/spreadsheets/d/1Ey7yZOf23deXeudh3xcmUXbKWhqSHaWYvoP0-GtPVPg/edit?usp=drive_link)
-
 ## Aptitude
 
 - https://www.javatpoint.com/aptitude/quantitative
