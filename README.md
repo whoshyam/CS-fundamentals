@@ -1,8 +1,5 @@
 ## Aptitude
 
-- https://www.javatpoint.com/aptitude/quantitative
-- https://www.javatpoint.com/reasoning
-- https://www.javatpoint.com/verbal-ability
 - https://www.geeksforgeeks.org/aptitude-questions-and-answers/?ref=ghm
 
 ### Puzzles
