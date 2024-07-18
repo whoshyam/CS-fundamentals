@@ -1,0 +1,6 @@
+- generics 
+- custom ArrayList
+- comparing objects
+- lambda expressions
+- exception handling
+- object cloning

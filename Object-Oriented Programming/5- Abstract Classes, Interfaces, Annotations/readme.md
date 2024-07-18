@@ -1,0 +1,17 @@
+- **Multiple Inheritance Problem**
+- **Abstract Classes**
+- **Example of Abstract Classes**
+- **Abstract Constructors**
+- **Object of an Abstract Class**
+- **Abstract Static Methods**
+- **Static Methods in Abstract Classes**
+- **"final" Keyword in Abstract Class**
+- **Multiple Inheritance using Abstract Classes**
+- **Interfaces**
+- **Example of Interfaces**
+- **Variable of Interface Type**
+- **Separate Classes in Same Interface**
+- **Extending Interfaces**
+- **Annotations**
+- **Important point regarding Static Interface methods**
+- **Nested Interfaces**
