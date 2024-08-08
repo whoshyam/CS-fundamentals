@@ -1,3 +1,21 @@
+// OOPs - Class and Objects
+// Empty Class
+// Access Modifiers
+// Getter && Setters
+// BTS of Objects
+// Static vs Dynamic Allocation
+// Constructor
+// Default Constructor
+// Parameterised Constructor
+// this keyword
+// Copy Constructor
+// Shallow and Deep Copy
+// Assignment Operator
+// Destructor
+// Static Keyword
+// Static Functions
+
+
 #include<iostream>
 using namespace std;
 
