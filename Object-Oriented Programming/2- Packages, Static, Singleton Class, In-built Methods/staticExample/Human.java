@@ -9,7 +9,7 @@ public class Human {
 
     static void message() {
         System.out.println("Hello world");
-//        System.out.println(this.age); // cant use this over here
+        // System.out.println(this.age); // cant use this over here
     }
 
     public Human(int age, String name, int salary, boolean married) {
