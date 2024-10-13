@@ -1,5 +1,8 @@
 <pre>
-Multilevel inheritance is a type of inheritance in C++ where a class is derived from another derived class, forming a chain of inheritance. In other words, a class C inherits from a class B, which itself inherits from a class A. This creates a multi-level hierarchy.
+Multilevel inheritance is a type of inheritance in C++ where a class is 
+derived from another derived class, forming a chain of inheritance. In other 
+words, a class C inherits from a class B, which itself inherits from a class 
+A. This creates a multi-level hierarchy.
 </pre>
 
 
@@ -75,11 +78,14 @@ int main() {
 ```
 Explanation:
 Grandparent Class:
-This is the base class at the top of the hierarchy. It contains a method showGrandparent().
+This is the base class at the top of the hierarchy. It contains a method 
+showGrandparent().
 Parent Class:
-Inherits from the Grandparent class using public inheritance. It adds its own method showParent().
+Inherits from the Grandparent class using public inheritance. It adds its own 
+method showParent().
 Child Class:
-Inherits from the Parent class (which in turn inherits from Grandparent). It adds its own method showChild().
+Inherits from the Parent class (which in turn inherits from Grandparent). It 
+adds its own method showChild().
 ```
  
 
