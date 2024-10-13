@@ -37,12 +37,12 @@ Private mode: If we derive a subclass from a Private base class. Then both publi
 - private: Members declared as private cannot be accessed directly from outside the class or by derived classes, but can be accessed within the class itself.
 
 
-<img src="image-1.png" width="400"/>
+<img src="./assets/image-1.png" width="400"/>
 
 
 ---
 
-<img src="image-2.png" width="400"/>
+<img src="./assets/image-2.png" width="400"/>
 
 
 <pre>
