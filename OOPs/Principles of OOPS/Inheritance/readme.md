@@ -1,10 +1,14 @@
 <pre>
-Inheritance is one of the key features of Object-oriented programming in C++. It allows us to create a new class (derived class) from an existing class (base class). 
+Inheritance is one of the key features of Object-oriented programming in C++. It allows us to create a new class (derived class) from 
+an existing class (base class). 
 The derived class inherits the fe atures from the base class and can have additional features of its own. 
  
-Inheritance allows us to define a class in terms of another class, which makes it easier to create and maintain an application. This also provides an opportunity to reuse the code functionality and fast implementation time.
+Inheritance allows us to define a class in terms of another class, which makes it easier to create and maintain an application. This 
+also provides an opportunity to reuse the code functionality and fast implementation time.
  
-When creating a class, instead of writing completely new data members and member functions, the programmer can designate that the new class should inherit the members of an existing class. This existing class is called the base class, and the new class is referred to as the derived class.
+When creating a class, instead of writing completely new data members and member functions, the programmer can designate that the new 
+class should inherit the members of an existing class. This existing class is called the base class, and the new class is referred to 
+as the derived class.
  
  
 class parent_class 
@@ -15,15 +19,19 @@ class child_class: access_modifier parent_class
 {    
 //Body of child class
 };
-Here, child_class is the name of the subclass, access_mode is the mode in which you want to inherit this sub-class, for example, public, private, etc., and parent_class is the name of the superclass from which you want to inherit the subclass.
+Here, child_class is the name of the subclass, access_mode is the mode in which you want to inherit this sub-class, for example, 
+public, private, etc., and parent_class is the name of the superclass from which you want to inherit the subclass.
  
 Modes of Inheritance
  
-Public mode: If we derive a subclass from a public base class. Then, the base class’s public members will become public in the derived class, and protected class members will become protected in the derived class.
+Public mode: If we derive a subclass from a public base class. Then, the base class’s public members will become public in the derived 
+class, and protected class members will become protected in the derived class.
  
-Protected mode: If we derive a subclass from a Protected base class. Then both public members and protected members of the base class will become protected in the derived class.
+Protected mode: If we derive a subclass from a Protected base class. Then both public members and protected members of the base class 
+will become protected in the derived class.
  
-Private mode: If we derive a subclass from a Private base class. Then both public members and protected members of the base class will become Private in the derived class.
+Private mode: If we derive a subclass from a Private base class. Then both public members and protected members of the base class will 
+become Private in the derived class.
 
 </pre>
 
@@ -46,9 +54,12 @@ Private mode: If we derive a subclass from a Private base class. Then both publi
 
 
 <pre>
-From above, we can see that two of the properties: Colour and MaxSpeed, are the same for every object. Hence, we can combine all these in one parent class and make three classes their subclass. This property is called Inheritance.
+From above, we can see that two of the properties: Colour and MaxSpeed, are the same for every object. Hence, we can combine all these 
+in one parent class and make three classes their subclass. This property is called Inheritance.
  
-Technically, inheritance is defined as the process of acquiring the features and behaviors of a class by another class. Here, the class that contains these members is called the base class, and the class that inherits these members from the base class is called the derived class of that base class.
+Technically, inheritance is defined as the process of acquiring the features and behaviors of a class by another class. Here, the class 
+that contains these members is called the base class, and the class that inherits these members from the base class is called the 
+derived class of that base class.
 
 </pre>
 
@@ -209,7 +220,8 @@ When class C inherits from both A and B, it has two versions of the func() metho
 This causes ambiguity because the compiler doesn't know which version of func()to call if you try obj.func().
 Code Walkthrough:
 Uncommented obj.func():
-If you were to use obj.func() (currently commented out), the compiler would throw an error because of the ambiguity: both A and B have a func() method, and the compiler cannot decide which one you want to call.
+If you were to use obj.func() (currently commented out), the compiler would throw an error because of the ambiguity: both A and B have 
+a func() method, and the compiler cannot decide which one you want to call.
 
 csharp
 Copy code
