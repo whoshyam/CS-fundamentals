@@ -114,7 +114,9 @@ template specialization or inheritance. For example, an empty class can be
 used as a base class to provide certain traits or properties to derived 
 classes.
 
-Marker Interface Pattern: Like in Java or other OOP languages, empty classes in C++ can be used for tagging objects to indicate they belong to a particular category without adding data or behavior.
+Marker Interface Pattern: Like in Java or other OOP languages, empty
+classes in C++ can be used for tagging objects to indicate they belong to a
+particular category without adding data or behavior.
 ```
 
 ---
